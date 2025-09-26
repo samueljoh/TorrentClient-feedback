@@ -176,7 +176,7 @@
           <source>Pieces</source>
           <target state="translated">Delar</target>
         </trans-unit>
-        <trans-unit id="PIecesLenLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="PiecesLenLabel.Text" translate="yes" xml:space="preserve">
           <source>Pieces length</source>
           <target state="translated">Delstorlek</target>
         </trans-unit>
